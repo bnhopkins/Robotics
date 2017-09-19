@@ -28,3 +28,9 @@ Maybe our class should make the world record in Abu Dhabi ;)
 ![Eric Siu](ericsiu.jpg)
 [Eric Siu](http://ericsiu.net/) has done some really interesting work in the space of new media robticesque art.
 The project above is called touchy. "Touchy is a human camera – a wearable device that literally transforms a human being into a functioning camera. The wearer is constantly “blinded” unless someone touches his/her skin that causes the shutters to open and restores the wearer’s vision. When physical contact is held for 10 seconds, the camera takes a “Touch-Snap”, which is displayed on the device’s LCD."
+
+
+# Some thoughts on cybernetics
+[Claude Shannon](https://www.youtube.com/watch?v=z2Whj_nL-x8)
+
+As we start out in the this class discussing cybernetics, I think it is interesting to go back to one of the original people who started it all in the world of communication.
