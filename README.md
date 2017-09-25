@@ -34,3 +34,9 @@ The project above is called touchy. "Touchy is a human camera – a wearable dev
 [Claude Shannon](https://www.youtube.com/watch?v=z2Whj_nL-x8)
 
 As we start out in the this class discussing cybernetics, I think it is interesting to go back to one of the original people who started it all in the world of communication.
+
+# Bluetooth Module Update
+
+![Bluetooth Module 1](bluetooth1.jpg)
+Putting together the bluetooth module..
+![Bluetooth Module 2](bluetooth.jpg)
