@@ -40,3 +40,11 @@ As we start out in the this class discussing cybernetics, I think it is interest
 ![Bluetooth Module 1](bluetooth1.jpg)
 Putting together the bluetooth module..
 ![Bluetooth Module 2](bluetooth.jpg)
+
+
+# Orlando
+
+While in Orlando, I went to OMART, Orlando Museum of Modern Art. The exhibition was a very cool new media exhibition.
+
+![OMART Piece](orlando1.jpg)
+![OMART SoftwareArt](orlando2.jpg)
