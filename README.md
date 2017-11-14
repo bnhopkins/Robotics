@@ -115,6 +115,10 @@ The scenes will need to be designed and fabricated:
 #### Organizational
 Use readme for updates, wiki for project documentation
 
+#### Inspiration
+https://www.youtube.com/watch?v=xzHz484y9hI
+https://www.youtube.com/watch?v=AiFGATFzgfU
+https://www.youtube.com/watch?v=y8D8mHF1Jqw
 
 ## Discussion with Michael
 LED to signify dying?
