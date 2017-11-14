@@ -85,21 +85,21 @@ The scenes will need to be designed and fabricated:
 - possibly paint?
 
 #### Schedule
-Tuesday November 14 9-10:15 AM
+###### Tuesday November 14 9-10:15 AM
 - create 3 prototypes
-Thursday November 16 9-11:40 AM
+###### Thursday November 16 9-11:40 AM
 - finish 3 prototypes
-Tuesday November 21 9-10:15 AM
+###### Tuesday November 21 9-10:15 AM
 - brainstorm 3 story lines
 - look deeply into famous plays and pupppets
-Thursday November 23 9-11:40 AM
+###### Thursday November 23 9-11:40 AM
 - settle on a prototype
 - create a prototype 2.0
-Saturday November 25 9-11:40 AM
+###### Saturday November 25 9-11:40 AM
 - create the scene
 - program Actors
-Tuesday November 28 9-10:15 AM
+###### Tuesday November 28 9-10:15 AM
 - final touches on scene and actors
-Thursday December 7 9-11:40 AM -  Team presentation: Tech rehearsal
-Tuesday December 12 9-10:15 AM - Team presentation: Dress rehearsal
-Wednesday December 13 5:30-7:30 PM - FINAL SHOR
+###### Thursday December 7 9-11:40 AM -  Team presentation: Tech rehearsal
+###### Tuesday December 12 9-10:15 AM - Team presentation: Dress rehearsal
+###### Wednesday December 13 5:30-7:30 PM - FINAL SHOW
