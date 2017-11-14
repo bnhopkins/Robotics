@@ -57,20 +57,28 @@ While in Orlando, I went to OMART, Orlando Museum of Modern Art. The exhibition 
 #### Things that could have been better
 the robot created for open studios was stupendous! However, there could have been a better use of space. Also, many of the pieces were not quite coordinated, and it could have been nice if the dragon and durm were coordinated. 
 
+
+
 ## Detailed plan for actor
 
 #### Areas of greatest risk or uncertainty
-Creating smooth transitions and motions of actors
+Risk: Creating smooth transitions and motions of actors
+Uncertainity: story line
 
 #### Mechanical
+There will be a play or story that culminates in the death of an actor.
+Necessary for performance
 - create sustainable actors, ensure they wont fall apart
+- pushing a button with a robotic arm
 
 #### Electronics
-We will create two main robot actors, one that will inteact with the head:
-- 2 Arduino uno
+We will create three main robot actors, one be a head on the wall head:
+- 3 Arduino uno
 - printed PCB board to clean up electronics
 - switch for actor
 - light sensor
+- Adafruit bluetooth module
+- large button
 
 #### Software
 - program motions and actions into actor
