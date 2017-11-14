@@ -114,3 +114,9 @@ The scenes will need to be designed and fabricated:
 
 #### Organizational
 Use readme for updates, wiki for project documentation
+
+
+## Discussion with Michael
+LED to signify dying?
+Servos
+think about degrees of freedom
