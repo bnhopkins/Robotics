@@ -51,24 +51,26 @@ While in Orlando, I went to OMART, Orlando Museum of Modern Art. The exhibition 
 
 
 ## Idea for final project
-
+![Sketch of final project](finalProjectIdea.jpg)
 
 ## Fritz
 #### Things that could have been better
-
+the robot created for open studios was stupendous! However, there could have been a better use of space. Also, many of the pieces were not quite coordinated, and it could have been nice if the dragon and durm were coordinated. 
 
 ## Detailed plan for actor
 
 #### Areas of greatest risk or uncertainty
 Creating smooth transitions and motions of actors
 
-
 #### Mechanical
-- 
+- create sustainable actors, ensure they wont fall apart
+
 #### Electronics
 We will create two main robot actors, one that will inteact with the head:
 - 2 Arduino uno
 - printed PCB board to clean up electronics
+- switch for actor
+- light sensor
 
 #### Software
 - program motions and actions into actor
@@ -86,11 +88,18 @@ The scenes will need to be designed and fabricated:
 Tuesday November 14 9-10:15 AM
 - create 3 prototypes
 Thursday November 16 9-11:40 AM
-- settle on a prototype
+- finish 3 prototypes
 Tuesday November 21 9-10:15 AM
+- brainstorm 3 story lines
+- look deeply into famous plays and pupppets
 Thursday November 23 9-11:40 AM
+- settle on a prototype
+- create a prototype 2.0
 Saturday November 25 9-11:40 AM
+- create the scene
+- program Actors
 Tuesday November 28 9-10:15 AM
+- final touches on scene and actors
 Thursday December 7 9-11:40 AM -  Team presentation: Tech rehearsal
 Tuesday December 12 9-10:15 AM - Team presentation: Dress rehearsal
 Wednesday December 13 5:30-7:30 PM - FINAL SHOR
