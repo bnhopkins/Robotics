@@ -103,3 +103,6 @@ The scenes will need to be designed and fabricated:
 ###### Thursday December 7 9-11:40 AM -  Team presentation: Tech rehearsal
 ###### Tuesday December 12 9-10:15 AM - Team presentation: Dress rehearsal
 ###### Wednesday December 13 5:30-7:30 PM - FINAL SHOW
+
+#### Organizational
+Use readme for updates, wiki for project documentation
