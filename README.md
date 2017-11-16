@@ -92,12 +92,26 @@ The scenes will need to be designed and fabricated:
 - wood
 - possibly paint?
 
-#### Schedule
+#### Organizational
+Use readme for updates, wiki for project documentation
+
+#### Inspiration
+https://www.youtube.com/watch?v=xzHz484y9hI
+https://www.youtube.com/watch?v=AiFGATFzgfU
+https://www.youtube.com/watch?v=y8D8mHF1Jqw
+
+## Discussion with Michael
+LED to signify dying?
+Servos
+think about degrees of freedom
+
+#Final Project Schedule
 ###### Tuesday November 14 9-10:15 AM
 - create 3 prototypes
 ###### Thursday November 16 9-11:40 AM
-- finish 3 prototypes
+- work on 3 prototypes
 ###### Tuesday November 21 9-10:15 AM
+- finish 3 prototypes
 - brainstorm 3 story lines
 - look deeply into famous plays and pupppets
 ###### Thursday November 23 9-11:40 AM
@@ -111,16 +125,3 @@ The scenes will need to be designed and fabricated:
 ###### Thursday December 7 9-11:40 AM -  Team presentation: Tech rehearsal
 ###### Tuesday December 12 9-10:15 AM - Team presentation: Dress rehearsal
 ###### Wednesday December 13 5:30-7:30 PM - FINAL SHOW
-
-#### Organizational
-Use readme for updates, wiki for project documentation
-
-#### Inspiration
-https://www.youtube.com/watch?v=xzHz484y9hI
-https://www.youtube.com/watch?v=AiFGATFzgfU
-https://www.youtube.com/watch?v=y8D8mHF1Jqw
-
-## Discussion with Michael
-LED to signify dying?
-Servos
-think about degrees of freedom
