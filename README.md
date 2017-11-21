@@ -165,10 +165,8 @@ The robot actions will be the hardest part. We have to figure out how to lift a 
 ##### Electronic and electromechanical items not figured out
 - How to lift the arm
 
-##### Hand drawn sketch
-
-##### Block diagram of the electronics
-
+##### Hand drawn sketch & Block diagram of the electronics
+diagram.JPG
 
 ##### Outline of programs
 ###### "Worker" Robot
