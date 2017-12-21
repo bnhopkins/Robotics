@@ -1,27 +1,33 @@
 Final Project
 
-Concept
-The performance was meant to capture the aura of the tension between powerful elite and the working class, particularly in the current time as it feels like this gap is widening. To do this, we used a combination of sound, movement and visuals to create a rising tension and sense of anxiety and unease. 
-
-Materials
-The materials used in the construction of the robot were quite varied, as at each stage of the process there were many prototypes and experiments of different materials. I was primarily responsible for the design and creation of the conveyor belt. This was a table 
-
-To complete the project, I had to learn a lot of building and engineering techniques. I lea I also became a pro using the laser cutter. 
-
-Electrical
-The electrical component of the project consisted of running the DC motors for the conveyor belt. I kept these at a constant speed. I also created a clock to go along with it. This motor was a basic spinning 
-
-Mechanical
-The mechanical aspect of the conveyor belt was more complex. I
-
-Challenges
-
-The main challenge I faced was making the two rollers of the conveyor belt parallel.
-Additionally, I made the top surface of the conveyor belt acryllic, which proved more difficult to work with than I imagined, in terms of screwing other elements into the board.
-Finally, Creating rollers that adequately pulled the conveyor belt without getting stuck from too much friction, and not being too smooth, was a challenge. In the end I cut strips of sand paper to wrap around a pool noodle and this worked well. Attatching anything to the pool noodle was also a challenge because glue or screws would just rip out.
 
 
-## Detailed plan for actor
+# Project Reflections
+
+## Concept 
+The performance was meant to capture the aura of the tension between powerful elite and the working class, particularly in the current time as it feels like this gap is widening. To do this, we used a combination of sound, movement and visuals to create a rising tension and sense of anxiety and unease. The performance was inspired by Charlie Chaplin in [Modern Times](https://www.youtube.com/watch?v=DfGs2Y5WJ14) and we wanted to create a similar feel of industrial chaos with our robot. 
+
+There were two actors, the worker and the boss. The worker was stamping out postcards on a conveyor belt as long period of time were passing on the clock. As the performance went on, there was heightened tension, anxiety and exhaustion of the worker robot until finally at the end the workers rise up and kill the boss.
+We made the worker robot purposely simple and feeble and helpless. The boss was elevated and faceless, giving the image of undisputable power.
+![Drawing of setup](final.jpg)
+
+## Materials 
+The materials used in the construction of the robot were quite varied, as at each stage of the process there were many prototypes and experiments of different materials. I was primarily responsible for the design and creation of the conveyor belt. This was a table with a rotating cloth and and a clock. I built the table supports out of wood planks and screwed them together along with a thick block in the corners to create a stable base. The surface of the table was made with acrylic (as opposed to wood) because we tried both materials and the wood had too much friction for it to allow the belt to glide, particularly with any weight on top of it.  I laser cut two holes in this piece to allow for the rollers. This took some trial and error in determining the height of the rollers and how large the hole should be. The rollers were made out of foam pool noodles, as this was a light material that wouldn’t weigh down the motor too much, but also was (nearly) perfectly round and the right diameter. I found the pool noodle did not have enough friction so I used strips of sandpaper to help pull the belt and pinned these into the noodle. I attached the noodle to the motor using laser cut wood circles with holes for the motor. I used 
+To complete the project, I had to learn a lot of mechanical engineering and building techniques. I learned these primarily by trial and error. I also became a pro using the laser cutter.
+
+## Electrical 
+The electrical component of the project consisted of running the DC motors for the conveyor belt. I kept these at a constant speed. I also created a clock to go along with it. This motor was a programmed with a basic spinning pattern in a clockwise direction. It was programmed to speed up throughout the performance, however the change in speed was not very noticeable.
+
+## Mechanical 
+The mechanical aspect of the conveyor belt was more complex. I detailed them primarily in the materials section.
+
+## Challenges
+The main challenge I faced was making the two rollers of the conveyor belt parallel. Additionally, I made the top surface of the conveyor belt acrylic, which proved more difficult to work with than I imagined, in terms of screwing other elements into the board. Finally, Creating rollers that adequately pulled the conveyor belt without getting stuck from too much friction, and not being too smooth, was a challenge. In the end I cut strips of sandpaper to wrap around a pool noodle and this worked well. Attaching anything to the pool noodle was also a challenge because glue or screws would just rip out.
+
+## Final Version
+![Final Performance Movie](final.m4v)
+
+# Detailed plan for actor
 
 #### Areas of greatest risk or uncertainty
 Risk: Creating smooth transitions and motions of actors
